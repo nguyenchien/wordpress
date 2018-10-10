@@ -1,0 +1,4 @@
+2018-08-24T15:05:23+00:00 CRITICAL Cannot redeclare chien_weather_style() (previously declared in /mnt/d/Projects/wordpress/wp-content/plugins/chien-weather/includes/class.chien-weather-widget.php:23)
+
+2018-08-24T15:05:57+00:00 CRITICAL Cannot redeclare chien_weather_style() (previously declared in /mnt/d/Projects/wordpress/wp-content/plugins/chien-weather/includes/class.chien-weather-widget.php:23)
+

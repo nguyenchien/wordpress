@@ -1,0 +1,238 @@
+/*
+Theme Name: ChienNguyen Theme 2018
+Theme URI: http://chiennguyen.vn
+Author: Chien Nguyen
+Author URI: http://blog.chiennguyen.vn
+Description: Learning Themes WordPress
+Version: 1.0
+License: Chien Nguyen License
+License URI: http://chiennguyen.vn/licenses
+Text Domain: chiennguyen
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+Languages Folder: /languages
+*/
+
+.flex-box{
+    display: flex;
+}
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+.main-menu .wrapper{
+    justify-content: space-between;
+    align-items: center;
+}
+#header,
+.main-menu,
+#content{
+    margin-bottom: 30px;
+}
+#header,
+#footer{
+    background-color: #eaeaea;
+    padding: 20px 0;
+}
+#header .wrapper{
+    justify-content: space-between;
+    align-items: center;
+}
+#content{
+    justify-content: space-between;
+}
+.languages ul{
+    display: flex;
+    margin-right: -10px;
+}
+.languages ul li{
+    margin-right: 10px;
+}
+.languages ul li a{
+    padding: 0 0 0 20px;
+    background-position-y: center;
+}
+.languages ul li.active span{
+    font-weight: bold;
+}
+.site-name a{
+    display: inline-block;
+    font-size: 25px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.search-form .screen-reader-text{
+    display: none;
+}
+.list-menu-top a{
+    display: inline-block;
+    padding: 5px 15px;
+}
+.list-menu-top a:hover{
+    background-color: #eaeaea;
+    text-decoration: none;
+}
+.list-menu-top .current-menu-item{
+    background-color: #eaeaea;
+}
+.main-banner{
+    margin-bottom: 30px;
+}
+.main-banner img{
+    max-width: 100%;
+}
+.main-content{
+    width: 70%;
+    padding-right: 30px;
+}
+.main-content-full{
+    width: 100%;
+    padding: 0;
+}
+.main-content-full p{
+    margin-bottom: 20px;
+}
+.main-content-full .image{
+    text-align: center;
+}
+.main-content-full img{
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 20px;
+}
+article{
+    margin-bottom: 30px;
+}
+.entry-title,
+.entry-meta{
+    margin-bottom: 10px;
+}
+.entry-content img,
+.entry-content p{
+    margin-bottom: 20px;
+}
+.main-content-full p,
+.entry-content p{
+    line-height:1.7;
+}
+.entry-content-list{
+    display: flex;
+    align-items: center;
+}
+.entry-content-list img,
+.entry-content-list p{
+    margin: 0;
+}
+.entry-content-list .post-thumb{
+    width: 100px;
+    margin-right: 10px;
+}
+.post-thumb img{
+    max-width: 100%;
+    height: auto;
+}
+.entry-content-list img{
+    width: 100%;
+    height: auto;
+}
+.entry-content-list .post-content{
+    flex: 1;
+}
+.sidebars{
+    width: 30%;
+}
+.tag-list{
+    margin-top: 10px;
+}
+.comments-item{
+    margin-bottom: 20px;
+}
+.comments-item ul{
+    background-color: #eee;
+    padding: 10px;
+}
+.comments-item li{
+    margin-bottom: 10px;
+}
+.comments-item li img{
+    width: 30px;
+    height: 30px;
+}
+.comments-item li:last-child{
+    margin-bottom: 0;
+}
+.comment-reply-title{
+    margin-bottom: 10px;
+}
+.comment-form-comment{
+    display: flex;
+    align-items: center;
+}
+.comment-form > p{
+    margin-bottom: 15px;
+}
+.comment-form-comment label{
+    margin-right: 10px;
+}
+.wpcf7-form-control-wrap{
+    display: inline-block;
+}
+.wpcf7-form p{
+    margin-bottom: 20px;
+}
+.wpcf7-form input,
+.wpcf7-form textarea{
+    padding: 3px;
+}
+.search-info{
+    width: 960px;
+    margin: 0 auto 15px;
+}
+.image-404{
+    text-align: center;
+}
+.image-404 img{
+    max-width: 100%;
+}
+.note-404{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.wp-pagenavi a:hover{
+    text-decoration: none;
+}
+.sidebar{
+    border: 2px solid #eaeaea;
+    margin-bottom: 20px;
+}
+.sidebar .widget-title{
+    font-size: 17px;
+    background: #eaeaea;
+    padding: 10px;
+}
+.sidebar ul,
+.sidebar .widget-content{
+    padding: 12px;
+}
+.sidebar ul li{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sidebar ul li span{
+    font-size: 12px;
+}
+.sidebar ul li a{
+    display: block;
+}
+.time-sale{
+    color: red;
+    display: inline-block;
+    margin-left: 5px;
+}
+.breadcrumbs{
+    width: 960px;
+    margin: 0 auto 30px;
+}
