@@ -149,7 +149,7 @@
         overflow: inherit;
     }
     .wrap-flexslider .flex-direction-nav .flex-next {
-        text-indent: 9000px;
+        text-indent: -9000px;
     }
     .wrap-flexslider .flex-direction-nav .flex-prev {
         text-indent: -9999px;
