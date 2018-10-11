@@ -130,9 +130,6 @@ html[xmlns] .flexslider .slides {
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-body.ja .shop-has-slide-text .flex-direction-nav a{
-  top: 30%;
-}
 .flex-direction-nav a:before {
 	font-family: "flexslider-icon";
 	font-size: 40px;
@@ -166,7 +163,7 @@ body.ja .shop-has-slide-text .flex-direction-nav a{
   opacity: 1;
 }
 .flex-direction-nav .flex-disabled {
-  opacity: 0!important;
+  opacity: 0;
   filter: alpha(opacity=0);
   cursor: default;
   z-index: -1;

@@ -143,11 +143,6 @@
         box-sizing: border-box;
         text-align: center;
     }
-    .wrap-flexslider .flex-direction-nav .flex-disabled {
-        opacity: 1!important;
-        cursor: pointer;
-        z-index: 2;
-    }
     .wrap-flexslider .flex-direction-nav .flex-next,
     .wrap-flexslider .flex-direction-nav .flex-prev {
         display: block;

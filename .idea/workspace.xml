@@ -4,7 +4,7 @@
     <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,21 +34,31 @@
       <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="144" column="5" lean-forward="false" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="-17">
               <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
               <folding>
                 <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flexslider.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,9 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Chien_Weather_A</find>
-      <find>Chien_Weather_AP</find>
-      <find>id=&quot;city</find>
       <find>tp-app</find>
       <find>tp-weather-item</find>
       <find>tp_weather_setting</find>
@@ -95,6 +102,9 @@
       <find>wrap-content-sidebar</find>
       <find>.entry-content img</find>
       <find>get_post_gallery_images_with_info</find>
+      <find>next</find>
+      <find>.wrap-flexslider .flex-direction-nav .flex-disabled</find>
+      <find>dis</find>
     </findStrings>
     <replaceStrings>
       <replace>webfonts</replace>
@@ -115,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/plugins/chien-weather/scripts/css/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/chien-weather/views/chien-weather-widget-form.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/chien-weather/includes/class.chien-weather.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/chien-weather/chien-weather.php" />
@@ -164,8 +173,9 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/breadcrumb-navxt/class.bcn_breadcrumb_trail.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" />
       </list>
     </option>
   </component>
@@ -242,7 +252,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,11 +270,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2018" />
+              <option name="myItemId" value="chiennguyen" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,15 +292,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2018" />
+              <option name="myItemId" value="chiennguyen" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -459,7 +469,7 @@
       <workItem from="1538727155802" duration="658000" />
       <workItem from="1539135989333" duration="3217000" />
       <workItem from="1539227405100" duration="176000" />
-      <workItem from="1539239108663" duration="6841000" />
+      <workItem from="1539239108663" duration="7490000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -475,11 +485,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539244202407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Slide gallery post content">
+      <created>1539248005510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539248005510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376376000" />
+    <option name="totallyTimeSpent" value="377025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1092" extended-state="0" />
@@ -870,11 +887,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-17">
+          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
+          <folding>
+            <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -890,19 +909,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="144" column="5" lean-forward="false" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
-          <folding>
-            <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
