@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="Slide gallery post content">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-1-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-1-300x171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-2-300x171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-3-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-3-300x171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-4-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-4-300x171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-5-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-5-300x171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/08/img-gallery-5.jpg" />
+    <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +22,7 @@
       <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
+            <state relative-caret-position="1092">
               <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               <folding>
                 <marker date="1539243933391" expanded="true" signature="1063:1482" ph="..." />
@@ -44,23 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            <state relative-caret-position="234">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="377" column="1" lean-forward="true" selection-start-line="377" selection-start-column="1" selection-end-line="377" selection-end-column="1" />
+            <state relative-caret-position="231">
+              <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
               <folding>
-                <marker date="1539240714039" expanded="true" signature="997:1027" ph="..." />
+                <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
               </folding>
             </state>
           </provider>
@@ -78,7 +65,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Chien_Weather_</find>
       <find>Chien_Weather_A</find>
       <find>Chien_Weather_AP</find>
       <find>id=&quot;city</find>
@@ -108,6 +94,7 @@
       <find>bpost_products_on_sale_hierarchy_display</find>
       <find>wrap-content-sidebar</find>
       <find>.entry-content img</find>
+      <find>get_post_gallery_images_with_info</find>
     </findStrings>
     <replaceStrings>
       <replace>webfonts</replace>
@@ -176,9 +163,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/templates/full-width.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/breadcrumb-navxt/class.bcn_breadcrumb_trail.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
       </list>
     </option>
   </component>
@@ -472,7 +459,7 @@
       <workItem from="1538727155802" duration="658000" />
       <workItem from="1539135989333" duration="3217000" />
       <workItem from="1539227405100" duration="176000" />
-      <workItem from="1539239108663" duration="5083000" />
+      <workItem from="1539239108663" duration="6841000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -481,11 +468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539244014681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Slide gallery post content">
+      <created>1539244202407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539244202407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374618000" />
+    <option name="totallyTimeSpent" value="376376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1092" extended-state="0" />
@@ -884,19 +878,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="377" column="1" lean-forward="true" selection-start-line="377" selection-start-column="1" selection-end-line="377" selection-end-column="1" />
-          <folding>
-            <marker date="1539240714039" expanded="true" signature="997:1027" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
+        <state relative-caret-position="1092">
           <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding>
             <marker date="1539243933391" expanded="true" signature="1063:1482" ph="..." />
@@ -906,9 +890,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        <state relative-caret-position="234">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
+          <folding>
+            <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

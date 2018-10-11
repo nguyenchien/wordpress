@@ -47,22 +47,22 @@
                 <?php the_excerpt(); ?>
             <?php else : ?>
                 <?php if ( !empty($gallery) ) : ?>
-                <div class="wrap-flexslider">
-                    <div id="slider" class="flexslider">
-                        <ul class="slides">
-                            <?php foreach ($gallery as $key => $item) : ?>
-                                <li><img src="<?= $item['src']; ?>" alt=""><p class='flex-caption'><?= $item['description']; ?></p></li>
-                            <?php endforeach; ?>
-                        </ul>
+                    <div class="wrap-flexslider">
+                        <div id="slider" class="flexslider">
+                            <ul class="slides">
+                                <?php foreach ($gallery as $key => $item) : ?>
+                                    <li><img src="<?= $item['src']; ?>" alt=""><p class='flex-caption'><?= $item['description']; ?></p></li>
+                                <?php endforeach; ?>
+                            </ul>
+                        </div>
+                        <div id="carousel" class="photo-session-carousel flexslider">
+                            <ul class="slides">
+                                <?php foreach ($gallery as $key => $item) : ?>
+                                    <li><img src="<?= $item['src']; ?>" alt=""></li>
+                                <?php endforeach; ?>
+                            </ul>
+                        </div>
                     </div>
-                    <div id="carousel" class="photo-session-carousel flexslider">
-                        <ul class="slides">
-                            <?php foreach ($gallery as $key => $item) : ?>
-                                <li><img src="<?= $item['src']; ?>" alt=""></li>
-                            <?php endforeach; ?>
-                        </ul>
-                    </div>
-                </div>
                 <?php endif; ?>
                 <?php echo $content; ?>
             <?php endif; ?>

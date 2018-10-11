@@ -357,22 +357,27 @@ function get_post_gallery_images_with_info($postvar = NULL) {
     }
 
     $post_content = $postvar->post_content;
-    preg_match('/\[gallery.*ids=.(.*).\]/', $post_content, $ids);
-    $images_id = explode(",", $ids[1]); //we get the list of IDs of the gallery as an Array
+    $images_id = 0;
+    $preg_match = preg_match('/\[gallery.*ids=.(.*).\]/', $post_content, $ids);
+    if ( $preg_match ) {
+        $images_id = explode(",", $ids[1]); //we get the list of IDs of the gallery as an Array
+    }
 
     $image_gallery_with_info = array();
     //we get the info for each ID
-    foreach ($images_id as $image_id) {
-        $attachment = get_post($image_id);
-        array_push($image_gallery_with_info, array(
-                'alt' => get_post_meta($attachment->ID, '_wp_attachment_image_alt', true),
-                'caption' => $attachment->post_excerpt,
-                'description' => $attachment->post_content,
-                'href' => get_permalink($attachment->ID),
-                'src' => $attachment->guid,
-                'title' => $attachment->post_title
-            )
-        );
+    if ( !empty($images_id) ) {
+        foreach ($images_id as $image_id) {
+            $attachment = get_post($image_id);
+            array_push($image_gallery_with_info, array(
+                    'alt' => get_post_meta($attachment->ID, '_wp_attachment_image_alt', true),
+                    'caption' => $attachment->post_excerpt,
+                    'description' => $attachment->post_content,
+                    'href' => get_permalink($attachment->ID),
+                    'src' => $attachment->guid,
+                    'title' => $attachment->post_title
+                )
+            );
+        }
     }
     return $image_gallery_with_info;
 }
