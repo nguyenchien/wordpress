@@ -329,3 +329,50 @@ add_filter('bcn_breadcrumb_title', function($title, $type, $id) {
     }
     return $title;
 }, 42, 3);
+
+/*=======================================================================================
+    Create gallery for single post
+ ========================================================================================*/
+// Remove shortcode [gallery] in content
+function strip_shortcode_gallery($content) {
+    preg_match_all( '/'. get_shortcode_regex().'/s', $content, $matches, PREG_SET_ORDER);
+    if (!empty($matches)) {
+        foreach($matches as $shortcode ) {
+            if ('gallery' === $shortcode[2]) {
+                $pos = strpos($content, $shortcode[0]);
+                if(false !== $pos) {
+                    $content = substr_replace($content, '', $pos, strlen($shortcode[0]));
+                }
+            }
+        }
+    }
+    return $content;
+}
+
+// Get info post gallery
+function get_post_gallery_images_with_info($postvar = NULL) {
+    if(!isset($postvar)){
+        global $post;
+        $postvar = $post; //if the param wasnt sent
+    }
+
+    $post_content = $postvar->post_content;
+    preg_match('/\[gallery.*ids=.(.*).\]/', $post_content, $ids);
+    $images_id = explode(",", $ids[1]); //we get the list of IDs of the gallery as an Array
+
+    $image_gallery_with_info = array();
+    //we get the info for each ID
+    foreach ($images_id as $image_id) {
+        $attachment = get_post($image_id);
+        array_push($image_gallery_with_info, array(
+                'alt' => get_post_meta($attachment->ID, '_wp_attachment_image_alt', true),
+                'caption' => $attachment->post_excerpt,
+                'description' => $attachment->post_content,
+                'href' => get_permalink($attachment->ID),
+                'src' => $attachment->guid,
+                'title' => $attachment->post_title
+            )
+        );
+    }
+    return $image_gallery_with_info;
+}

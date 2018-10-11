@@ -41,6 +41,7 @@
                 }
                 ?>
             </div>
+
             <div class="sidebars">
                 <div class="sidebar">
                     <?php get_sidebar(); ?>
