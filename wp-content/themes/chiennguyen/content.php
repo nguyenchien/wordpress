@@ -122,6 +122,7 @@
 </script>
 <style type="text/css">
     .wrap-flexslider{
+        overflow: hidden;
         margin-bottom: 40px;
     }
     .wrap-flexslider .flexslider{
@@ -149,7 +150,7 @@
         overflow: inherit;
     }
     .wrap-flexslider .flex-direction-nav .flex-next {
-        text-indent: -9000px;
+        text-indent: 9999px;
     }
     .wrap-flexslider .flex-direction-nav .flex-prev {
         text-indent: -9999px;
