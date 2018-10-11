@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,31 +32,21 @@
       <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="144" column="5" lean-forward="false" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+            <state relative-caret-position="312">
+              <caret line="193" column="40" lean-forward="false" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="-3">
               <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
               <folding>
                 <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flexslider.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +63,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tp-app</find>
-      <find>tp-weather-item</find>
       <find>tp_weather_setting</find>
       <find>tp-delete-item</find>
       <find>tp-</find>
@@ -105,6 +91,8 @@
       <find>next</find>
       <find>.wrap-flexslider .flex-direction-nav .flex-disabled</find>
       <find>dis</find>
+      <find>impo</find>
+      <find>hover</find>
     </findStrings>
     <replaceStrings>
       <replace>webfonts</replace>
@@ -469,7 +457,7 @@
       <workItem from="1538727155802" duration="658000" />
       <workItem from="1539135989333" duration="3217000" />
       <workItem from="1539227405100" duration="176000" />
-      <workItem from="1539239108663" duration="7490000" />
+      <workItem from="1539239108663" duration="8282000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -492,11 +480,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539248005510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Slide gallery post content">
+      <created>1539248653608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539248653608</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377025000" />
+    <option name="totallyTimeSpent" value="377817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1092" extended-state="0" />
@@ -887,16 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
-          <folding>
-            <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
@@ -909,17 +894,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="144" column="5" lean-forward="false" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="193" column="40" lean-forward="false" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+        <state relative-caret-position="546">
+          <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
+          <folding>
+            <marker date="1539245311839" expanded="true" signature="997:1027" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
