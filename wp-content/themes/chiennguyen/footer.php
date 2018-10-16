@@ -1,7 +1,12 @@
 <div id="footer">
     <div class="wrapper">
-        <p class="copy-right"><?php _e('Copyright', 'chiennguyen'); ?> <?php echo date('Y'); ?> Chien Nguyen. All Rights Reserved.</p>
-        <p class="note"><?php _e('More info', 'chiennguyen'); ?>: 0979 575 821</p>
+        <?php
+            if(is_active_sidebar('info_footer')){
+                dynamic_sidebar('info_footer');
+            }else{
+                echo "<p>".__('This is sidebar. You have to add some widgets', 'chiennguyen')."</p>";
+            }
+        ?>
     </div>
 </div>
 </div><!-- end #container -->

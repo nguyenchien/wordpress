@@ -65,7 +65,7 @@ Languages Folder: /languages
 }
 .list-menu-top a{
     display: inline-block;
-    padding: 5px 15px;
+    padding: 5px 12px;
 }
 .list-menu-top a:hover{
     background-color: #eaeaea;

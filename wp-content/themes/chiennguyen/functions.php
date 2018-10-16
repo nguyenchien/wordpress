@@ -103,6 +103,16 @@ function chiennguyen_sidebar(){
         'after_title' => '</h3>',
     );
     register_sidebar($weather_sidebar);
+
+    $info_footer = array(
+        'name' => 'Info Footer',
+        'id' => 'info_footer',
+        'description' => 'Info Footer',
+        'class' => 'info-footer',
+        'before_title' => '<h3 class="widget-title">',
+        'after_title' => '</h3>',
+    );
+    register_sidebar($info_footer);
 }
 
 /*=====================================================================================================================
@@ -380,4 +390,27 @@ function get_post_gallery_images_with_info($postvar = NULL) {
         }
     }
     return $image_gallery_with_info;
+}
+
+/*
+ * Shortcode multi search post
+ * Use: [multi_search_post]
+*/
+add_shortcode( 'multi_search_post', 'multi_search_post_func' );
+function multi_search_post_func($atts) {
+    $atts_shortcode = shortcode_atts(array(
+    ), $atts);
+
+    $args = array(
+        'post_status' => 'publish',
+        'post_type' => 'post',
+        'posts_per_page' => 10,
+        'order' => 'DESC',
+        'orderby' => 'date',
+    );
+    $the_query  = new WP_Query($args);
+
+    ob_start();
+    include(locate_template('inc/multi-search-post.php'));
+    return ob_get_clean();
 }
