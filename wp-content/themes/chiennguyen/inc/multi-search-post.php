@@ -52,6 +52,11 @@
 </div>
 
 <?php
+
+    if ( !isset($_GET['minPrice']) && !isset($_GET['maxPrice']) && !isset($_GET['size']) && !isset($_GET['color']) ) {
+        echo "<p class='notice-filter'>Chưa có dữ liệu nào được chọn!</p>";
+        return false;
+    }
     // Query post
     $paged = get_query_var('paged') ? get_query_var('paged') : 1;
     $args = array(

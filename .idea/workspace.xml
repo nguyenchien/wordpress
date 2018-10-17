@@ -4,6 +4,7 @@
     <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,12 +76,12 @@
       <file leaf-file-name="multi-search-post.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+            <state relative-caret-position="-1118">
+              <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
               <folding>
-                <marker date="1539790339025" expanded="true" signature="3222:3735" ph="..." />
-                <marker date="1539790339025" expanded="true" signature="3442:3735" ph="..." />
-                <marker date="1539790339025" expanded="true" signature="3552:3735" ph="..." />
+                <marker date="1539791321320" expanded="true" signature="3446:3959" ph="..." />
+                <marker date="1539791321320" expanded="true" signature="3666:3959" ph="..." />
+                <marker date="1539791321320" expanded="true" signature="3776:3959" ph="..." />
               </folding>
             </state>
           </provider>
@@ -89,8 +90,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6422">
-              <caret line="247" column="14" lean-forward="false" selection-start-line="247" selection-start-column="14" selection-end-line="247" selection-end-column="14" />
+            <state relative-caret-position="833">
+              <caret line="266" column="22" lean-forward="false" selection-start-line="266" selection-start-column="22" selection-end-line="266" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -207,8 +208,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
       </list>
     </option>
   </component>
@@ -481,7 +482,7 @@
       <workItem from="1539592987718" duration="10384000" />
       <workItem from="1539758673747" duration="11276000" />
       <workItem from="1539770555955" duration="1279000" />
-      <workItem from="1539773752853" duration="5215000" />
+      <workItem from="1539773752853" duration="6233000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -546,11 +547,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539776229927</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="WordPress Custom Query - Custom Filters">
+      <created>1539790470937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539790470937</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="409386000" />
+    <option name="totallyTimeSpent" value="410404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
@@ -966,20 +974,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6422">
-          <caret line="247" column="14" lean-forward="false" selection-start-line="247" selection-start-column="14" selection-end-line="247" selection-end-column="14" />
+        <state relative-caret-position="833">
+          <caret line="266" column="22" lean-forward="false" selection-start-line="266" selection-start-column="22" selection-end-line="266" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+        <state relative-caret-position="-1118">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding>
-            <marker date="1539790339025" expanded="true" signature="3222:3735" ph="..." />
-            <marker date="1539790339025" expanded="true" signature="3442:3735" ph="..." />
-            <marker date="1539790339025" expanded="true" signature="3552:3735" ph="..." />
+            <marker date="1539791321320" expanded="true" signature="3446:3959" ph="..." />
+            <marker date="1539791321320" expanded="true" signature="3666:3959" ph="..." />
+            <marker date="1539791321320" expanded="true" signature="3776:3959" ph="..." />
           </folding>
         </state>
       </provider>
