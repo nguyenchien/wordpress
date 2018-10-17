@@ -1,743 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="Slide gallery post content">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax/class-recalculate-scores-ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax/class-shortcode-filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax/class-yoast-dismissable-notice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax/class-yoast-onpage-ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/ajax/class-yoast-plugin-conflict-ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-abstract-capability-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-manager-factory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-manager-integration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-manager-vip.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-manager-wp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-capability-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/capabilities/class-register-capabilities.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-add-keyword-modal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-analysis-worker-location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-dev-server-location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-seo-location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-asset-yoast-components-l10n.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-editor-specific-replace-vars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-gutenberg-compatibility-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-help-panel.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-init.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-media-purge-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-recommended-replace-vars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-user-profile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-asset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-bulk-description-editor-list-table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-bulk-editor-list-table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-bulk-title-editor-list-table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-collector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-cornerstone.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-customizer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-database-proxy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-export.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-expose-shortlinks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-extension-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-extension.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-extensions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-gutenberg-compatibility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-help-center-item.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-help-center.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-keyword-synonyms-modal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-license-page-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-meta-columns.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-meta-storage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-meta-table-accessible.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-multiple-keywords-modal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-option-tab.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-option-tabs-formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-option-tabs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-paper-presenter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-plugin-availability.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-plugin-compatibility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-plugin-conflict.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-premium-popup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-premium-upsell-admin-block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-primary-term-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-product-upsell-notice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-recalculate-scores.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-remote-request.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-social-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-suggested-plugins.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-alerts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-columns.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-dashboard-widget.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-modal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-network-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-network-settings-api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/class-yoast-plugin-conflict.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-components.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-endpoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-options-adapter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-storage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-structure.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/class-configuration-translations.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-configuration-choices.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-connect-google-search-console.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-mailchimp-signup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-suggestions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/components/interface-component.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/factories/class-factory-post-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-choice-post-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-choice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-company-logo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-company-name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-company-or-person.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-configuration-choices.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-connect-google-search-console.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-environment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-google-search-console-intro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-mailchimp-signup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-multiple-authors.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-person-name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-post-type-visibility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-facebook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-googleplus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-instagram.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-linkedin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-myspace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-pinterest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-twitter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-profile-url-youtube.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-separator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-site-name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-site-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-social-profiles-intro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-success-message.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-suggestions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-title-intro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-upsell-configuration-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field-upsell-site-review.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/config-ui/fields/class-field.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/endpoints/class-endpoint-indexable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/endpoints/class-endpoint-ryte.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/endpoints/class-endpoint-statistics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/endpoints/class-endpoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/endpoints/interface-endpoint-storable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/filters/class-abstract-post-filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/filters/class-cornerstone-filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/formatter/class-metabox-formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/formatter/class-post-metabox-formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/formatter/class-term-metabox-formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/formatter/interface-metabox-formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-bulk-action.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-category-filters.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-count.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-issue.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-issues.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-mapper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-marker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-modal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-platform-tabs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc-table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/class-gsc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/views/gsc-display.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/google_search_console/views/gsc-redirect-nopremium.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/help_center/class-template-variables-tab.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/class-import-detector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/class-import-plugin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/class-import-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/class-import-status.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-abstract-plugin-importer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-aioseo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-greg-high-performance-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-headspace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-jetpack.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-platinum-seo-pack.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-premium-seo-pack.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-seo-framework.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-seopressor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-smartcrawl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-squirrly.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-ultimate-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-woothemes-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-wp-meta-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-import-wpseo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/import/plugins/class-importers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/interface-collection.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/interface-installable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-cleanup-transient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-column-count.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-columns.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-compatibility-notifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-content-processor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-extractor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-factory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-installer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-internal-lookup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-notifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-query.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-reindex-dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-reindex-post-endpoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-reindex-post-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-storage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-table-accessible-notifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-table-accessible.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-type-classifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-watcher-loader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link-watcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/links/class-link.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/listeners/class-listener.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-admin-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-base-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-network-admin-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-replacevar-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-replacevar-field.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/menu/class-submenu-capability-normalize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-addon-section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-readability.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-analysis-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-form-tab.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-keyword-synonyms-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-multiple-keywords-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-null-tab.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-section-react.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox-tab-section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/interface-metabox-analysis.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/interface-metabox-section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/metabox/interface-metabox-tab.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/notifiers/class-configuration-notifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/notifiers/class-post-type-archive-notification-handler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/notifiers/interface-notification-handler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/onpage/class-onpage-option.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/onpage/class-onpage-request.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/onpage/class-onpage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/onpage/class-ryte-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/licenses.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/metas.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/network.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/social.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/pages/tools.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/recalculate/class-recalculate-posts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/recalculate/class-recalculate-terms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/recalculate/class-recalculate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-abstract-role-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-register-roles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-role-manager-factory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-role-manager-vip.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-role-manager-wp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/roles/class-role-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/services/class-indexable-post-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/services/class-indexable-term-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/services/class-indexable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/services/interface-indexable-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/statistics/class-statistics-integration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/statistics/class-statistics-service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-columns.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-content-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-fields-presenter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-metabox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-settings-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy-social-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/taxonomy/class-taxonomy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-default-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-plugin-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-server-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-theme-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/class-view-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/class-yoast-form-fieldset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/class-yoast-input-select.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/form/fieldset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/form/select.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/interface-yoast-form-element.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/js-templates-primary-term.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/licenses.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/paper-collapsible.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/partial-alerts-errors.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/partial-alerts-template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/partial-alerts-warnings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/features.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/site-analysis.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/dashboard/webmaster-tools.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/archives.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/archives/help.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/breadcrumbs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/general.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/media.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/author-archive-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/breadcrumbs-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/date-archives-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/general-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/general/force-rewrite-title.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/general/homepage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/general/knowledge-graph.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/general/title-separator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/media-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/post-type-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/post_type/post-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/post_type/woocommerce-shop-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/rss-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/special-pages.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/paper-content/taxonomy-content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/post-types.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/rss.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/taxonomies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/metas/taxonomies/category-url.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/network/general.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/network/restore-site.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/social/accounts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/social/facebook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/social/google.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/social/pinterest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/social/twitterbox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/tool/import-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/tool/wpseo-export.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tabs/tool/wpseo-import.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tool-bulk-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tool-file-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/tool-import-export.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/views/user-profile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/admin/watchers/class-slug-change-watcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/cli/class-cli-redirect-upsell-command-namespace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/cli/class-cli-yoast-command-namespace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/admin-global-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/admin-global-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/adminbar-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/adminbar-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/alerts-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/alerts-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/dashboard-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/dashboard-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/edit-page-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/edit-page-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/featured-image-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/featured-image-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/filter-explanation-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/filter-explanation-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/inside-editor-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/inside-editor-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/metabox-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/metabox-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/metabox-primary-category-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/metabox-primary-category-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/search-appearance-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/search-appearance-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/select2/select2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/structured-data-blocks-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/structured-data-blocks-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/toggle-switch-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/toggle-switch-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/wpseo-dismissible-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/wpseo-dismissible-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yoast-components-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yoast-components-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yoast-extensions-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yoast-extensions-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yst_plugin_tools-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yst_plugin_tools-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yst_seo_score-812-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/dist/yst_seo_score-812.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/deprecated/class-submenu-hider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/deprecated/class-wpseo-advanced-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/deprecated/class-wpseo-option-internallinks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/deprecated/class-wpseo-option-permalinks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/deprecated/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-breadcrumbs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-frontend-page-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-frontend.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-json-ld.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-opengraph-image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-opengraph.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-primary-category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-remove-reply-to-com.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-twitter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/class-woocommerce-shop-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/frontend/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/BasicSEO.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Local_SEO_Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/News_SEO_Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/SEO_for_beginners.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Video_SEO_Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Woo_SEO_Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Yoast_SEO_negative_icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/Yoast_icon_kader.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/editicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-local-for-woocommerce.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-local.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-news.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-premium-ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/extensions-woo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/link-in-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/link-out-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/new-to-configuration-notice.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/newsletter-collage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/question-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/readability-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/support-team.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/waiting.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/yoast-configuration-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/images/yoast_seo_for_wp_2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-post-type.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-rewrite.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-structured-data-blocks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-upgrade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-admin-bar-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-content-images.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-custom-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-custom-taxonomies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-features.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-image-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-installation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-primary-term.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-rank.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-replace-vars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-replacement-variable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-shortlinker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-statistics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/class-wpseo-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/interface-wpseo-wordpress-ajax-integration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/interface-wpseo-wordpress-integration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/language-utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-ms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-social.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-titles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option-wpseo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-option.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-options-backfill.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/options/class-wpseo-taxonomy-meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-author-sitemap-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-post-type-sitemap-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemap-cache-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemap-image-parser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemap-timezone.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-cache-validator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-renderer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps-router.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-sitemaps.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/class-taxonomy-sitemap-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/interface-sitemap-cache-data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/sitemaps/interface-sitemap-provider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/structured-data-blocks/class-faq-block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/structured-data-blocks/class-how-to-block.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/wpseo-functions-deprecated.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/inc/wpseo-non-ajax-functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/analysis-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/commons-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/components-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/configuration-wizard-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/search-appearance-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/az.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/dsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/hsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/hy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/sr-Cyrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/select2/select2.full.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-global-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-gsc-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-media-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-api-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-bulk-editor-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-dashboard-widget-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-edit-page-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-featured-image-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-filter-explanation-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-help-center-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-metabox-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-metabox-category-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-modal-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-network-admin-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-post-scraper-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-quick-edit-handler-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-recalculate-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-reindex-links-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-replacevar-plugin-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-shortcode-plugin-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-structured-data-blocks-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-term-scraper-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-used-keywords-assessment-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/dist/wp-seo-wp-globals-backport-812.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/vendor/lodash-noconflict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/js/vendor/lodash.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-bg_BG.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-ca.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-cs_CZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-da_DK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-de_CH.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-de_DE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-el.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-en_AU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-en_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-en_GB.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-en_NZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-en_ZA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-es_AR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-es_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-es_VE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fa_IR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fr_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-fr_FR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-gl_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-he_IL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-hu_HU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-it_IT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-ja.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-nb_NO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-nl_BE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-nl_NL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pl_PL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pt_BR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-pt_PT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-ro_RO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-ru_RU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-sk_SK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-sr_RS.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-sv_SE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-tr_TR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-zh_CN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-zh_HK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seo-zh_TW.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-bg_BG.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-ca.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-cs_CZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-da_DK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-de_CH.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-de_DE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-el.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-en_AU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-en_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-en_GB.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-en_NZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-en_ZA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-es_AR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-es_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-es_VE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-fa_IR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-fi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-fr_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-fr_FR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-gl_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-he_IL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-hu_HU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-it_IT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-ja.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-nb_NO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-nl_BE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-nl_NL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-pl_PL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-pt_BR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-pt_PT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-ro_RO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-ru_RU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-sk_SK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-sr_RS.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-sv_SE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-tr_TR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-zh_CN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-zh_HK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs-zh_TW.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/wordpress-seojs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-bg_BG.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-ca.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-cs_CZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-da_DK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-de_CH.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-de_DE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-el.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-en_AU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-en_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-en_GB.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-en_NZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-en_ZA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-es_AR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-es_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-es_VE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-fa_IR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-fi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-fr_CA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-fr_FR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-gl_ES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-he_IL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-hu_HU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-it_IT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-ja.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-nb_NO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-nl_BE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-nl_NL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-pl_PL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-pt_BR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-pt_PT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-ro_RO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-ru_RU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-sk_SK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-sr_RS.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-sv_SE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-tr_TR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-zh_CN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-zh_HK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components-zh_TW.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-components.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-seo-js.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/languages/yoast-seo-js.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/autoload_52.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader52.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_real_52.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/composer/autoload_static.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/AutoloadGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/Generator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/class-api-google-client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/class-api-google.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/class-api-libs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/Google_Client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_AssertionCredentials.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_Auth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_AuthNone.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_LoginTicket.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_OAuth2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_P12Signer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_PemVerifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_Signer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/auth/Google_Verifier.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/cache/Google_Cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/cache/Google_WPCache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/external/URITemplateParser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_CacheParser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_CurlIO.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_HttpRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_IO.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_REST.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/Google_WPIO.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/io/cacerts.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_BatchRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_MediaFileUpload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_Model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_Service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_ServiceResource.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/api-libs/google/service/Google_Utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/i18n-module/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/i18n-module/src/i18n-module-wordpressorg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/i18n-module/src/i18n-module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-api-request.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-license-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-plugin-license-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-plugin-update-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-update-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/views/form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/views/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/views/script.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/wp-seo-main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/wp-seo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wordpress-seo/wpml-config.xml" afterPath="" />
+    <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-vi.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-vi.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-vi.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/vi.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -756,7 +27,7 @@
       <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
+            <state relative-caret-position="1274">
               <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
               <folding>
                 <marker date="1539243933391" expanded="true" signature="1063:1482" ph="..." />
@@ -768,7 +39,7 @@
       <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="3276">
               <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
               <folding />
             </state>
@@ -778,10 +49,10 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="108" column="28" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="28" />
+            <state relative-caret-position="10452">
+              <caret line="404" column="26" lean-forward="false" selection-start-line="404" selection-start-column="26" selection-end-line="404" selection-end-column="26" />
               <folding>
-                <marker date="1539661042287" expanded="true" signature="997:1027" ph="..." />
+                <marker date="1539672382830" expanded="true" signature="997:1027" ph="..." />
               </folding>
             </state>
           </provider>
@@ -791,52 +62,37 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/search.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="general-template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-              <folding>
-                <marker date="1539227387884" expanded="true" signature="28736:28749" ph="..." />
-                <marker date="1539227387884" expanded="true" signature="56350:56532" ph="SELECT YEAR(... " />
-                <marker date="1539227387884" expanded="true" signature="57424:57559" ph="SELECT YEAR(... " />
-                <marker date="1539227387884" expanded="true" signature="58324:58568" ph="SELECT YEAR(... " />
-                <marker date="1539227387884" expanded="true" signature="59539:59777" ph="SELECT DISTI... " />
-                <marker date="1539227387884" expanded="true" signature="61181:61239" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1539227387884" expanded="true" signature="63544:63639" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
-                <marker date="1539227387884" expanded="true" signature="64877:65091" ph="SELECT MONTH... " />
-                <marker date="1539227387884" expanded="true" signature="65120:65351" ph="SELECT MONTH... " />
-                <marker date="1539227387884" expanded="true" signature="65527:65668" ph="..." />
-                <marker date="1539227387884" expanded="true" signature="65662:65668" ph="..." />
-                <marker date="1539227387884" expanded="true" signature="66113:66119" ph="..." />
-                <marker date="1539227387884" expanded="true" signature="66922:66928" ph="..." />
-                <marker date="1539227387884" expanded="true" signature="67021:67256" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="364">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-weather.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/sidebar-weather.php">
+      <file leaf-file-name="multi-search-post.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6422">
+              <caret line="247" column="14" lean-forward="false" selection-start-line="247" selection-start-column="14" selection-end-line="247" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -854,8 +110,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>is</find>
-      <find>isSma</find>
       <find>isSmar</find>
       <find>isSmart</find>
       <find>isSmartP</find>
@@ -884,6 +138,8 @@
       <find>coun</find>
       <find>&lt;div class=&quot;search-form&quot;&gt;</find>
       <find>sid</find>
+      <find>multi-sear</find>
+      <find>$my_query</find>
     </findStrings>
     <replaceStrings>
       <replace>webfonts</replace>
@@ -951,10 +207,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/css/flexslider.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php" />
       </list>
     </option>
   </component>
@@ -989,8 +245,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1063,7 +319,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../silveroem2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../custom_highend" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -1224,7 +480,10 @@
       <workItem from="1539227405100" duration="176000" />
       <workItem from="1539239108663" duration="10475000" />
       <workItem from="1539333976026" duration="1222000" />
-      <workItem from="1539592987718" duration="5538000" />
+      <workItem from="1539592987718" duration="10384000" />
+      <workItem from="1539758673747" duration="11276000" />
+      <workItem from="1539770555955" duration="1279000" />
+      <workItem from="1539773752853" duration="1475000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -1275,32 +534,39 @@
       <option name="project" value="LOCAL" />
       <updated>1539255325153</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Slide gallery post content">
+      <created>1539662458408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539662458408</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="386770000" />
+    <option name="totallyTimeSpent" value="405646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38209122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3954394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51974386" sideWeight="0.5022247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.49777532" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1345,13 +611,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/zendvn-shop/includes/debugs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/zendvn-shop/includes/html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1605,25 +864,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="3276">
           <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
           <folding />
         </state>
@@ -1633,56 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="664">
           <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding>
-            <marker date="1539243933391" expanded="true" signature="1063:1482" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding>
-            <marker date="1539227387884" expanded="true" signature="28736:28749" ph="..." />
-            <marker date="1539227387884" expanded="true" signature="56350:56532" ph="SELECT YEAR(... " />
-            <marker date="1539227387884" expanded="true" signature="57424:57559" ph="SELECT YEAR(... " />
-            <marker date="1539227387884" expanded="true" signature="58324:58568" ph="SELECT YEAR(... " />
-            <marker date="1539227387884" expanded="true" signature="59539:59777" ph="SELECT DISTI... " />
-            <marker date="1539227387884" expanded="true" signature="61181:61239" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-            <marker date="1539227387884" expanded="true" signature="63544:63639" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
-            <marker date="1539227387884" expanded="true" signature="64877:65091" ph="SELECT MONTH... " />
-            <marker date="1539227387884" expanded="true" signature="65120:65351" ph="SELECT MONTH... " />
-            <marker date="1539227387884" expanded="true" signature="65527:65668" ph="..." />
-            <marker date="1539227387884" expanded="true" signature="65662:65668" ph="..." />
-            <marker date="1539227387884" expanded="true" signature="66113:66119" ph="..." />
-            <marker date="1539227387884" expanded="true" signature="66922:66928" ph="..." />
-            <marker date="1539227387884" expanded="true" signature="67021:67256" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1690,17 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="108" column="28" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="28" />
-          <folding>
-            <marker date="1539661042287" expanded="true" signature="997:1027" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1708,22 +890,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="851" column="31" lean-forward="false" selection-start-line="851" selection-start-column="31" selection-end-line="851" selection-end-column="31" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="96" column="42" lean-forward="true" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/sidebar-weather.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-          <folding />
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/footer.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/search.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10452">
+          <caret line="404" column="26" lean-forward="false" selection-start-line="404" selection-start-column="26" selection-end-line="404" selection-end-column="26" />
+          <folding>
+            <marker date="1539672382830" expanded="true" signature="997:1027" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <marker date="1539243933391" expanded="true" signature="1063:1482" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-pagenavi/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6422">
+          <caret line="247" column="14" lean-forward="false" selection-start-line="247" selection-start-column="14" selection-end-line="247" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>

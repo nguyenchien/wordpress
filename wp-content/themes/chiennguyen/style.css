@@ -236,3 +236,27 @@ article{
     width: 960px;
     margin: 0 auto 30px;
 }
+.wrap-multi-search .title,
+.wrap-condition-search .title{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.wrap-condition-search .title{
+    margin-bottom: 5px;
+}
+.wrap-condition-search ul li{
+    margin: 10px 0;
+}
+.wrap-multi-search-result,
+.wrap-condition-search{
+    margin-top: 20px;
+}
+.wrap-multi-search-result li{
+    margin: 20px 0;
+    padding-top: 20px;
+    border-top: 1px solid #888;
+}
+.wrap-multi-search-result p{
+    padding: 0;
+    margin: 0;
+}

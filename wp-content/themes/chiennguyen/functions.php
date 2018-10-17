@@ -400,16 +400,6 @@ add_shortcode( 'multi_search_post', 'multi_search_post_func' );
 function multi_search_post_func($atts) {
     $atts_shortcode = shortcode_atts(array(
     ), $atts);
-
-    $args = array(
-        'post_status' => 'publish',
-        'post_type' => 'post',
-        'posts_per_page' => 10,
-        'order' => 'DESC',
-        'orderby' => 'date',
-    );
-    $the_query  = new WP_Query($args);
-
     ob_start();
     include(locate_template('inc/multi-search-post.php'));
     return ob_get_clean();
