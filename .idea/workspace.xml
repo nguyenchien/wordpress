@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23d3976e-ec90-4dc0-b919-e77795f6483b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-vi.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/admin-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/admin-vi.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-vi.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/vi.po" afterPath="$PROJECT_DIR$/wp-content/languages/vi.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/chiennguyen/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,9 +75,13 @@
       <file leaf-file-name="multi-search-post.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="729">
+              <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+              <folding>
+                <marker date="1539790339025" expanded="true" signature="3222:3735" ph="..." />
+                <marker date="1539790339025" expanded="true" signature="3442:3735" ph="..." />
+                <marker date="1539790339025" expanded="true" signature="3552:3735" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -483,7 +481,7 @@
       <workItem from="1539592987718" duration="10384000" />
       <workItem from="1539758673747" duration="11276000" />
       <workItem from="1539770555955" duration="1279000" />
-      <workItem from="1539773752853" duration="1475000" />
+      <workItem from="1539773752853" duration="5215000" />
     </task>
     <task id="LOCAL-00001" summary="Slide gallery post content">
       <created>1539244014681</created>
@@ -541,11 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539662458408</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="WordPress Custom Query - Custom Filters">
+      <created>1539776229927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539776229927</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="405646000" />
+    <option name="totallyTimeSpent" value="409386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
@@ -604,7 +609,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Slide gallery post content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slide gallery post content" />
+    <MESSAGE value="WordPress Custom Query - Custom Filters" />
+    <option name="LAST_COMMIT_MESSAGE" value="WordPress Custom Query - Custom Filters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -968,9 +974,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chiennguyen/inc/multi-search-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="729">
+          <caret line="137" column="6" lean-forward="true" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+          <folding>
+            <marker date="1539790339025" expanded="true" signature="3222:3735" ph="..." />
+            <marker date="1539790339025" expanded="true" signature="3442:3735" ph="..." />
+            <marker date="1539790339025" expanded="true" signature="3552:3735" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

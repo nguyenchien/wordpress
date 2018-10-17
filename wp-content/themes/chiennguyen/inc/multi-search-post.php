@@ -61,7 +61,7 @@
         'order' => 'DESC',
         'orderby' => 'date',
         'meta_query' => array(
-            //'relation' => 'OR',
+            //'relation' => 'AND' (default),
             array(
                 'key' => 'gia',
                 'value' => array($minPrice, $maxPrice),
@@ -98,8 +98,8 @@
     ?>
     <h3 class="title">Condition Search</h3>
     <ul>
-        <li><strong>Giá thấp nhất</strong>: <?= !empty($_GET['minPrice']) ? $_GET['minPrice'] . ' vnd' : 'Bất kỳ' ?></li>
-        <li><strong>Giá nhỏ nhất</strong>: <?= !empty($_GET['maxPrice']) ? $_GET['maxPrice'] . ' vnd' : 'Bất kỳ' ?></li>
+        <li><strong>Giá thấp nhất</strong>: <?= isset($_GET['minPrice']) ? $_GET['minPrice'] . ' vnd' : 'Bất kỳ' ?></li>
+        <li><strong>Giá nhỏ nhất</strong>: <?= isset($_GET['maxPrice']) ? $_GET['maxPrice'] . ' vnd' : 'Bất kỳ' ?></li>
         <li><strong>Kích thước</strong>: <?= !empty($_GET['size']) ? $arrSize[$_GET['size']] : 'Bất kỳ' ?></li>
         <li><strong>Màu sắc</strong>: <?= !empty($_GET['color']) ? $arrColor[$_GET['color']] : 'Bất kỳ' ?></li>
     </ul>
@@ -117,14 +117,12 @@
                 <?php
                     $kich_thuoc = get_field_object('kich_thuoc');
                     $valueKT = $kich_thuoc['value'];
-                    $labelKT = 'Chưa chọn';
                     if (array_key_exists($valueKT, $kich_thuoc['choices'])) {
                         $labelKT = $kich_thuoc['choices'][$valueKT];
                     }
 
                     $mau_sac = get_field_object('mau_sac');
                     $valueMS = $mau_sac['value'];
-                    $labelMS = 'Chưa chọn';
                     if (array_key_exists($valueMS, $mau_sac['choices'])) {
                         $labelMS = $mau_sac['choices'][$valueMS];
                     }
