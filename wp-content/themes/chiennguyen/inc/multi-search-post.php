@@ -54,7 +54,7 @@
 <?php
 
     if ( !isset($_GET['minPrice']) && !isset($_GET['maxPrice']) && !isset($_GET['size']) && !isset($_GET['color']) ) {
-        echo "<p class='notice-filter'>Hãy chọn dữ liệu thích hợp để tìm kiếm!</p>";
+        echo "<p class='notice-filter'>Hãy chọn dữ liệu thích hợp để tìm kiếm!!!</p>";
         return false;
     }
     // Query post
