@@ -202,8 +202,14 @@ function product_on_sale_func($atts) {
 add_filter('rewrite_rules_array', 'mmp_rewrite_rules');
 function mmp_rewrite_rules($rules){
     $newRules  = array();
+
+    // New link for search page
     $newRules['^custom/(.+)/page/?([0-9]{1,})/?$'] = 'index.php?s=$matches[1]&paged=$matches[2]';
     $newRules['^custom/(.+)$'] = 'index.php?s=$matches[1]';
+
+    // New link for taxonomy products_on_sale_tax
+    //$newRules['^(.+)/sale$'] = 'index.php?products_on_sale_tax=$matches[1]';
+
     return array_merge($newRules, $rules);
 }
 
