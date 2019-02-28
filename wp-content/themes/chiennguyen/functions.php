@@ -417,7 +417,7 @@ function get_post_gallery_images_with_info($postvar = NULL) {
                     'caption' => $attachment->post_excerpt,
                     'description' => $attachment->post_content,
                     'href' => get_permalink($attachment->ID),
-                    'src' => $attachment->guid,
+                    'src' => str_replace("http://localhost/wordpress", WP_HOME , $attachment->guid),
                     'title' => $attachment->post_title
                 )
             );

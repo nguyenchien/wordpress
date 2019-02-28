@@ -79,6 +79,9 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', true);
 
+// Define WP_HOMES
+define('WP_HOME','http://'.$_SERVER['SERVER_NAME'].'/wordpress');
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
